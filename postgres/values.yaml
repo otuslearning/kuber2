@@ -1,0 +1,5 @@
+namespace: development
+global:
+  postgresql:
+    auth:
+      password: password
